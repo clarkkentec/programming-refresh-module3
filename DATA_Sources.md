@@ -41,5 +41,5 @@
 
 
 ## Never needed unless going niche
-**AKShare** (unless Asian markets)
-**Quiver Quantitative** (unless alternative data focus)
+- **AKShare** (unless Asian markets)
+- **Quiver Quantitative** (unless alternative data focus)
